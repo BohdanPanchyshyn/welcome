@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/welcome/static/css/main.de221945.css",
-    "main.js": "/github.io/welcome/static/js/main.861318c0.js",
-    "index.html": "/github.io/welcome/index.html",
-    "main.de221945.css.map": "/github.io/welcome/static/css/main.de221945.css.map",
-    "main.861318c0.js.map": "/github.io/welcome/static/js/main.861318c0.js.map"
+    "main.css": "/welcome/static/css/main.de221945.css",
+    "main.js": "/welcome/static/js/main.861318c0.js",
+    "index.html": "/welcome/index.html",
+    "main.de221945.css.map": "/welcome/static/css/main.de221945.css.map",
+    "main.861318c0.js.map": "/welcome/static/js/main.861318c0.js.map"
   },
   "entrypoints": [
     "static/css/main.de221945.css",
