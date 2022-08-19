@@ -1,0 +1,55 @@
+.signUp,
+.signIn {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+   background-image: url("https://images.pexels.com/photos/325944/pexels-photo-325944.jpeg?cs=srgb&dl=pexels-pixabay-325944.jpg&fm=jpg");
+   background-size: cover;
+   background-position: center;
+}
+
+.formSignUp,
+.formSignIn {
+   background-color: rgba(245, 245, 245, 0.884);
+   padding: 0px 60px;
+   border-radius: 10px;
+}
+
+.h1SignUp,
+.h1SignIn {
+   color: #3c0303;
+   text-align: center;
+}
+
+.buttonSignUp,
+.buttonSignIn {
+   width: 100%;
+   height: 50px;
+   padding: 10px;
+   border: none;
+   background-color: #3c0303;
+   color: whitesmoke;
+   border-radius: 5px;
+   font-weight: bold;
+   font-size: 18px;
+   cursor: pointer;
+   margin-top: 15px;
+   margin-bottom: 30px;
+}
+
+.LinkSignUp,
+.LinkSignIn {
+   padding-bottom: 10px;
+   display: flex;
+   justify-content: center;
+}
+
+.blockCheckSignIn {
+   display: flex;
+   justify-content: center;
+}
+
+.rememberMeSignIn {
+   padding: 4px;
+}

@@ -1,0 +1,16 @@
+.containerWelcomePage {
+   display: flex;
+   justify-content: center;
+
+}
+
+
+.welcomeStylePage {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   width: 350px;
+   height: 350px;
+   border: 2px solid black;
+}
